@@ -1,0 +1,17 @@
+** cache
+
+cache is interface type,by default achieve redis storage,you can chieve your storage enging.
+
+** how to install
+
+```shell
+go get -u github.com/wychl/cache
+```
+
+
+
+ 
+
+
+ 
+
