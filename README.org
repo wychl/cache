@@ -4,9 +4,17 @@ cache is interface type,by default achieve redis storage,you can chieve your sto
 
 ** how to install
 
-```shell
-go get -u github.com/wychl/cache
-```
+#+BEGIN_SRC sh
+  go get -u github.com/wychl/cache
+#+END_SRC
+
+** roadmap
+[x] edis storage
+[] memcached storage
+[] memory storage
+
+** license
+
 
 
 
